@@ -1,0 +1,11 @@
+# Артефакты симуляции
+sim_*
+obj_dir/
+obj_vl_*/
+tb_matmul.vcd
+tests/sim_build/
+tests/results.xml
+__pycache__/
+
+# Локальная настройка pyenv (system python для cocotb)
+.python-version
